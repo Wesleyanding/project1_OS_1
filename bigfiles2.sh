@@ -1,0 +1,1 @@
+du -ah $1 | sort -rh | head -n 7
