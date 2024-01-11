@@ -1,1 +1,1 @@
-ls -a $1 | grep -Ei [aeiou]
+ls -a $1 | grep -Ei '\.[aeiou]$'
